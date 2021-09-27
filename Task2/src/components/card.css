@@ -1,0 +1,14 @@
+  #card {
+  border-radius: 15px;
+  background-color: #00c1fc;
+  color: #170e29;
+}
+
+#card:hover {
+  color: #e6db0e;
+  background-color: #773e28;
+}
+#image {
+  border-radius: 200%;
+  border-width: 10px;
+}
